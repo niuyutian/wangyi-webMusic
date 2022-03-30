@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3588493",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "6874729",
+      "name": "入耳耳机",
+      "font_class": "ruererji",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "17189129",
+      "name": "芝麻-授权",
+      "font_class": "zhima-shouquan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "20217351",
+      "name": "青柠",
+      "font_class": "qingning",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "25997526",
+      "name": "青柠",
+      "font_class": "shiwutubiao-28",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
